@@ -1,0 +1,96 @@
+.title {
+    position: relative;
+    left: 500px
+    
+        
+}
+h1{
+    color: darkred;
+    text-align: center;
+    border:ridge;
+    
+}
+body{
+    background-color: beige;
+}
+h2{ 
+
+    color: dimgrey; 
+
+    border:dotted;
+    width: 300px;
+     text-align: center;
+    font-size: 40px;
+
+} 
+.Disco{
+    position: absolute;
+    right:500px;
+    top: 50px;
+    
+}
+h3{
+     color: dimgrey; 
+    border:dotted;
+    width: 300px;
+    text-align: center;
+    position:fixed;
+    font-size: 40px;
+    top: 300px;
+
+}
+.stars{
+    position: absolute;
+    left:10px
+        
+}
+.Mic{
+    position: absolute;
+    right:10px;
+    top: 50px;
+}
+h4{
+    color: dimgrey; 
+
+    border:dotted;
+    
+    text-align: center;
+    position:absolute;
+    font-size: 40px;
+    top: 900px;
+    right:
+}
+.lips{
+    position: absolute;
+    left:700px;
+    top:400px
+}
+
+.calendar {
+    position: absolute;
+    left:600px;
+        top:70px;
+    
+}
+.stars2{
+    position: absolute;
+    left:650px;
+        top:700px
+}
+.Dress{
+    position: absolute;
+    left:350px;
+}
+.glass{
+    position:absolute;
+    left:400px;
+    top:500px;
+        
+}
+
+.sing{
+    position:absolute;
+    left:600px;
+        top:600px;
+}
+
